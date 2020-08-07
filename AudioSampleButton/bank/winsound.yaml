@@ -1,0 +1,88 @@
+﻿---
+width: 200
+height: 100
+samples:
+ -
+  - name: Windows Background
+    audio: C:\Windows\Media\Windows Background.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Balloon
+    audio: C:\Windows\Media\Windows Balloon.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Battery Critical
+    audio: C:\Windows\Media\Windows Battery Critical.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Battery Low
+    audio: C:\Windows\Media\Windows Battery Low.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Critical Stop
+    audio: C:\Windows\Media\Windows Critical Stop.wav
+    color: white
+    bgcolor: darkgray
+ -
+  - name: Windows Default
+    audio: C:\Windows\Media\Windows Default.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Ding
+    audio: C:\Windows\Media\Windows Ding.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Error
+    audio: C:\Windows\Media\Windows Error.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Exclamation
+    audio: C:\Windows\Media\Windows Exclamation.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Feed Discovered
+    audio: C:\Windows\Media\Windows Feed Discovered.wav
+    color: white
+    bgcolor: darkgray
+ -
+  - name: Windows Foreground
+    audio: C:\Windows\Media\Windows Foreground.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Hardware Fail
+    audio: C:\Windows\Media\Windows Hardware Fail.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Hardware Insert
+    audio: C:\Windows\Media\Windows Hardware Insert.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Hardware Remove
+    audio: C:\Windows\Media\Windows Hardware Remove.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Information Bar
+    audio: C:\Windows\Media\Windows Information Bar.wav
+    color: white
+    bgcolor: darkgray
+ -
+  - name: Windows Logoff Sound
+    audio: C:\Windows\Media\Windows Logoff Sound.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Logon
+    audio: C:\Windows\Media\Windows Logon.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Menu Command
+    audio: C:\Windows\Media\Windows Menu Command.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Message Nudge
+    audio: C:\Windows\Media\Windows Message Nudge.wav
+    color: white
+    bgcolor: darkgray
+  - name: Windows Minimize
+    audio: C:\Windows\Media\Windows Minimize.wav
+    color: white
+    bgcolor: darkgray

@@ -1,0 +1,16 @@
+﻿html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    background-color: black;
+    color: white;
+}
+
+#banklist button {
+    background-color: darkred;
+    color: white;
+    padding: 2px;
+    width: 100%;
+    margin: 0;
+}
